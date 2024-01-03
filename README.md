@@ -1,5 +1,3 @@
-<div align="center"><p align="center"><a href="https://quicksell.co/"><img src="./public/favicon.png" alt="QuickSell Logo" width="140px" /></a></p></div>
-
 <h1 align="center">QuickSell Frontend Assignment</h1>
 
 # Lead-Frontend-QuickSell-Assignment
