@@ -3,12 +3,13 @@ It is a basic kanban board application that dynamically adjust to reflect the us
 ## Objectives :
 - To create an interactive kanban board application using ReactJs
 - It should offer three distinct ways to group the data
-- By status
-- By user 
-- By priority
+1. By status
+2. By user 
+3. By priority
 
 - It should be able to sort the tickets in two ways :
-- Priority
-- Title
+1. Priority
+2. Title
 
-- 
+## Challenges : 
+
