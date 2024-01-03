@@ -1,0 +1,21 @@
+.display-button-wrapper {
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+.display-button-wrapper strong {
+    margin: 2px 8px;
+}
+
+.display-button {
+    outline: none;
+    padding: 0.2rem 0.5rem;
+    border: 1px solid #d3d3d3;
+    border-radius: 4px;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: rgb(147, 147, 147) 0px 0px 5px;
+    font-size: 1rem;
+    color: #383838;
+}

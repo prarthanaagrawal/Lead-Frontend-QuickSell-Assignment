@@ -1,0 +1,37 @@
+.options-menu {
+    background-color: #f8f8fa;
+    padding: 10px 0;
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -8px;
+    border: 2px solid #e3e3e3;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(122, 122, 122, 0.2), 0 6px 20px 0 rgba(122, 122, 122, 0.19);;
+
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+
+.dropdown-label {
+    color: #848484;
+}
+
+select {
+    border: 1px solid #d3d3d3;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: rgb(168, 168, 168) 0px 0px 1px;
+    padding: 2px 12px;
+    font-size: 1rem;
+    width: 120px;
+}
+
+.menu-option {
+    margin: 0.75rem 1.2rem;
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    justify-content: space-around;
+    z-index: 1;
+}
