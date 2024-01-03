@@ -53,9 +53,14 @@ Ensure the application is responsive and works seamlessly across devices (deskto
  For specifying prop types passed
 
  ### Screenshots Of Web App
- <pre>
+ <!-- <pre>
 <img src="./images/1.png" alt="1" width="1773" height="838" /> <img src="./images/2.png" alt="1" width="1596" height="838" /> <img src="./images/3.png" alt="1" width="1603" height="824" /> <img src="./images/4.png" alt="1" width="1795" height="837" /> <img src="./images/5.png" alt="1" width="1920" height="641" /> 
+</pre>   -->
+
+ <pre>
+<img src="./img/1.png" alt="1"  /><img src="./img/2.png" alt="1"  /><img src="./img/3.png" alt="1"  /><img src="./img/4.png" alt="1"  /><img src="./img/5.png" alt="1"  />
 </pre>
+
 
  ## APIs used
 
