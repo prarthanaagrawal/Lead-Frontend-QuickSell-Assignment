@@ -56,7 +56,7 @@ Ensure the application is responsive and works seamlessly across devices (deskto
 
  ### Screenshots Of Web App
  <pre>
-<img src="./images/1.png" alt="1" width="300" height="600" /> <img src="./images/2.png" alt="1" width="300" height="600" /> <img src="./images/3.png" alt="1" width="300" height="600" /> <img src="./images/4.png" alt="1" width="300" height="600" /> <img src="./images/5.png" alt="1" width="300" height="600" /> 
+<img src="./images/1.png" alt="1" width="1773" height="838" /> <img src="./images/2.png" alt="1" width="300" height="600" /> <img src="./images/3.png" alt="1" width="300" height="600" /> <img src="./images/4.png" alt="1" width="300" height="600" /> <img src="./images/5.png" alt="1" width="300" height="600" /> 
 </pre>
 
  ## APIs used
